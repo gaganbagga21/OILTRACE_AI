@@ -97,3 +97,9 @@ Navigate to `http://localhost:5173` to view the application.
 * **Styling:** CSS3 (Custom Variables, Theme Tokens)
 * **Icons:** Custom SVG Vector System
 * **Version Control:** Git, GitHub
+
+🌐 **Live Demo:** [oiltrace-ai.vercel.app](https://your-deployed-app-url.vercel.app)
+## ✍️ Author
+
+* **Gagan Preet Singh Bagga**
+* [GitHub Profile](https://github.com/gaganbagga21)
